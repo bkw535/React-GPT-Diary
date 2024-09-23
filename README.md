@@ -1,1 +1,1 @@
-# ai-counselor
+# gpt-diary
